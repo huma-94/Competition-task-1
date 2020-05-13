@@ -37,3 +37,39 @@ C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Ta
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.dll
 C:\Talent-Competition\Talent\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\appsettings.docker.Development.json
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\appsettings.docker.json
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.deps.json
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.json
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.dev.json
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.dll
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Common.dll
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csprojAssemblyReference.cache
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfoInputs.cache
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csproj.CopyComplete
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.dll
+D:\Compitition task material\downloaded 1\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Common.dll
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+D:\Compitition task material\completed\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csprojAssemblyReference.cache
+D:\Compitition task material\completed\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfoInputs.cache
+D:\Compitition task material\completed\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
+D:\Compitition task material\completed\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.dll
+D:\Compitition task material\completed\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\appsettings.docker.Development.json
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\appsettings.docker.json
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.deps.json
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.json
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.dev.json
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.dll
+D:\Compitition task material\completed\Talent.Services.Identity\bin\Debug\netcoreapp2.0\Talent.Services.Identity.pdb
+D:\Compitition task material\completed\Talent.Services.Identity\obj\Debug\netcoreapp2.0\Talent.Services.Identity.csproj.CopyComplete
